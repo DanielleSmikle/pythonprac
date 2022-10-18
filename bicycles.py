@@ -34,3 +34,4 @@ weaves= ['bob','ponytail','bangs','bodywave','burmese']
 
 message='Just cuz you decided to get a ' + weaves[0].title() + ' dont make you Bob Marley! You better go sit down'
 print(message)
+
