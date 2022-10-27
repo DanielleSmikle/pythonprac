@@ -16,19 +16,6 @@
 # print('\nHere is the sorted list:')
 # print(sorted(toppings))
 
-colors = ['green','blue','pink','yellow']
 
-# print('Here is the original list:')
-# print(colors)
-
-# print('\nHere is the sorted list:')
-# print(sorted(colors))
-
-# print('orignal again')
-# print(colors)
-
-# colors.reverse()
-# print(colors)
-
-len(colors)
-print(colors)
+message ='hello everybody!'
+print(message[len(message)-1])
